@@ -224,7 +224,13 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
  * [Top Resources for Startup Marketing and PR](https://docs.google.com/spreadsheets/d/1tAiya71mDQgtwn_F9-mNQhuc7GdsQ5e2_BeG69Cb82A/edit#gid=0)
  * [SaaS Email Marketing Handbook](http://saasemailmarketing.net)
 
+## Great Podcasrs:
+### Startups:
 
+ * [Go-to-Market Fit, Tidal Waves, Category Leadership & Split-Personalities (Tae Hea Nahm)]([https://www.devmarketingguide.com](https://fullratchet.net/170-go-to-market-fit-tidal-waves-category-leadership-split-personalities-tae-hea-nahm/))
+ * [SaaS Startup Investing (Mamoon Hamid)]([https://docs.google.com/spreadsheets/d/1tAiya71mDQgtwn_F9-mNQhuc7GdsQ5e2_BeG69Cb82A/edit#gid=0](https://fullratchet.net/ep36-saas-startup-investing-mamoon-hamid/))
+
+ 
 ## More links
 
  * [Awesome Falsehood](https://github.com/kdeldycke/awesome-falsehood) *(GitHub)*
