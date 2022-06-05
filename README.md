@@ -1,9 +1,5 @@
 # Awesome CTO
 
-> &mdash; Hi, my name is Dima and I'm CTO
->
-> &mdash; (chorus) Hello, Dima
-
 
 A curated **and opinionated** list of resources for Chief Technology Officers, with the emphasis on startups
 
