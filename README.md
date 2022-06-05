@@ -225,10 +225,10 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
  * [SaaS Email Marketing Handbook](http://saasemailmarketing.net)
 
 ## Great Podcasrs:
-### Startups:
 
  * [Go-to-Market Fit, Tidal Waves, Category Leadership & Split-Personalities (Tae Hea Nahm)](https://fullratchet.net/170-go-to-market-fit-tidal-waves-category-leadership-split-personalities-tae-hea-nahm/)
  * [SaaS Startup Investing (Mamoon Hamid)](https://fullratchet.net/ep36-saas-startup-investing-mamoon-hamid/)
+ * [Building the initial team | Matan Bar, CEO Melio](https://open.spotify.com/episode/4DOVpgqFX9shvpdBxiHd7x?si=384b2e248e3743e5&nd=1)
 
  
 ## More links
