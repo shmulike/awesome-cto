@@ -228,9 +228,10 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
  * [SaaS Startup Investing (Mamoon Hamid)](https://fullratchet.net/ep36-saas-startup-investing-mamoon-hamid/)
  * [Building the initial team | Matan Bar, CEO Melio](https://open.spotify.com/episode/4DOVpgqFX9shvpdBxiHd7x?si=384b2e248e3743e5&nd=1)
  * [Bezos and zuckerberg above the law](https://omny.fm/shows/program-19/70-90)
- * [צרות בהייטק פרק 50](https://open.spotify.com/episode/0JuRn15W38svjRXCYMjUMh?si=MQcoePswQkeZn-t6M6Dq1w&utm_source=whatsapp&nd=1)
+ * [צרות בהייטק | פרק #50: ](https://open.spotify.com/episode/0JuRn15W38svjRXCYMjUMh?si=MQcoePswQkeZn-t6M6Dq1w&utm_source=whatsapp&nd=1)
  * [גיקונומי | פרק #513: יואב אלקלעי וקניין רוחני](https://open.spotify.com/episode/7atfQllEAEJhqrPZklxASd?si=dVQfiDFCSbW93gGN6WR1sw&nd=1)
- * []()
+ * [גיקונומי | פרק #482: מאיר פנסטר ועולם הפטנטים](https://open.spotify.com/episode/2fgzLoSw4RFoyf0atoRWvQ?si=BuEl3l1hSwe48Aj_lUfvQg&nd=1)
+ * [https://open.spotify.com/episode/0JuRn15W38svjRXCYMjUMh?si=MQcoePswQkeZn-t6M6Dq1w&utm_source=whatsapp&nd=1](צרות בהייטק | פרק #50: איל איצקוביץ מפיטנגו על השקעות בשלבים מוקדמים)
 
 ## Audio books:
  * [The Hard Thing About Hard Things | Ben Horowitz | Audiobook](https://www.youtube.com/watch?v=tIUEq8hAVho)
