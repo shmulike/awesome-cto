@@ -220,11 +220,13 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
  * [Top Resources for Startup Marketing and PR](https://docs.google.com/spreadsheets/d/1tAiya71mDQgtwn_F9-mNQhuc7GdsQ5e2_BeG69Cb82A/edit#gid=0)
  * [SaaS Email Marketing Handbook](http://saasemailmarketing.net)
 
-## Great Podcasrs:
+## Great Podcasts:
 
  * [Go-to-Market Fit, Tidal Waves, Category Leadership & Split-Personalities (Tae Hea Nahm)](https://fullratchet.net/170-go-to-market-fit-tidal-waves-category-leadership-split-personalities-tae-hea-nahm/)
  * [SaaS Startup Investing (Mamoon Hamid)](https://fullratchet.net/ep36-saas-startup-investing-mamoon-hamid/)
  * [Building the initial team | Matan Bar, CEO Melio](https://open.spotify.com/episode/4DOVpgqFX9shvpdBxiHd7x?si=384b2e248e3743e5&nd=1)
+ * [Bezos and zuckerberg above the law](https://omny.fm/shows/program-19/70-90)
+ * [צרות בהייטק פרק 50](https://open.spotify.com/episode/0JuRn15W38svjRXCYMjUMh?si=MQcoePswQkeZn-t6M6Dq1w&utm_source=whatsapp&nd=1)
 
  
 ## More links
