@@ -228,7 +228,10 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
  * [Bezos and zuckerberg above the law](https://omny.fm/shows/program-19/70-90)
  * [צרות בהייטק פרק 50](https://open.spotify.com/episode/0JuRn15W38svjRXCYMjUMh?si=MQcoePswQkeZn-t6M6Dq1w&utm_source=whatsapp&nd=1)
 
- 
+## Audio books:
+ * [The Hard Thing About Hard Things | Ben Horowitz | Audiobook](https://www.youtube.com/watch?v=tIUEq8hAVho)
+
+
 ## More links
 
  * [Awesome Falsehood](https://github.com/kdeldycke/awesome-falsehood) *(GitHub)*
