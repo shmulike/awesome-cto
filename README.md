@@ -16,7 +16,7 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
  * [Related stuff](#related-stuff)
  * [Product](#product)
  * [Marketing](#marketing)
- * [Podcasts](#Great Podcasts)
+ * [Podcasts](#Great-Podcasts)
  * [More links](#more-links)
 
 
